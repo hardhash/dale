@@ -1,0 +1,1 @@
+[Tableau官网](https://www.tableau.com/)，进入官网后找到对应的Tableau版本和类型下载，由于我使用的是M1芯片Macbook Pro，所以直接下载了2020.3的Tableau Desktop专业版，如果是X86架构或者Windows系统电脑可以下载免费版Tableau Public获得90%功能使用已足够满足日常需求。各个版本的Tableau Desktop有免费赠送的14天体验卡，想体验专业版的也可以挑选一个版本下载体验。具体功能差异下文涉及会有演示。
